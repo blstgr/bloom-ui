@@ -46,12 +46,12 @@ Screenshots were captured from Storybook on the iOS Simulator. This section cove
 | BadgePill | <img src="docs/screenshots/ui-badge-pill.png" width="240" alt="BadgePill screenshot" /> |
 | BottomActions | <img src="docs/screenshots/ui-bottom-actions.png" width="240" alt="BottomActions screenshot" /> |
 | Button | <img src="docs/screenshots/ui-button.png" width="240" alt="Button screenshot" /> |
-| EditableTitle | <img src="docs/screenshots/ui-editable-title.png" width="240" alt="EditableTitle screenshot" /> |
+| EditableTitle | <img src="docs/screenshots/ui-editable-title.gif" width="240" alt="EditableTitle screenshot" /> |
 | Icon | <img src="docs/screenshots/ui-icon.png" width="240" alt="Icon screenshot" /> |
 | Input | <img src="docs/screenshots/ui-input.png" width="240" alt="Input screenshot" /> |
 | Loader | <img src="docs/screenshots/ui-loader.png" width="240" alt="Loader screenshot" /> |
 | NavBar | <img src="docs/screenshots/ui-nav-bar.png" width="240" alt="NavBar screenshot" /> |
-| PhotoGrid | <img src="docs/screenshots/ui-photo-grid.png" width="240" alt="PhotoGrid screenshot" /> |
+| PhotoGrid | <img src="docs/screenshots/ui-photo-grid.gif" width="240" alt="PhotoGrid screenshot" /> |
 | PlantCard | <img src="docs/screenshots/ui-plant-card.png" width="240" alt="PlantCard screenshot" /> |
 | TopActions | <img src="docs/screenshots/ui-top-actions.png" width="240" alt="TopActions screenshot" /> |
 
@@ -61,8 +61,9 @@ Screenshots were captured from Storybook on the iOS Simulator. This section cove
 | --- | --- |
 | PlantDetail | <img src="docs/screenshots/plant-detail.png" width="240" alt="PlantDetail screenshot" /> |
 | SettingsPanel | <img src="docs/screenshots/settings-panel.png" width="240" alt="SettingsPanel screenshot" /> |
-| WateringCard | <img src="docs/screenshots/watering-card.png" width="240" alt="WateringCard screenshot" /> |
-| WateringSlider | <img src="docs/screenshots/watering-slider.png" width="240" alt="WateringSlider screenshot" /> |
+| WateringCard | <img src="docs/screenshots/watering%20card.gif" width="240" alt="WateringCard screenshot" /> |
+| WateringSchedule | <img src="docs/screenshots/wateringn%20schedule.gif" width="240" alt="WateringSchedule screenshot" /> |
+| WateringSlider | <img src="docs/screenshots/watering-slider.gif" width="240" alt="WateringSlider screenshot" /> |
 
 ## Running The Project
 
